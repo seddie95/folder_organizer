@@ -19,7 +19,7 @@ Directory_dict = {
                "qt", "mpg", "mpeg", "3gp", "mkv"],
     "HTML": ["html5", "html", "htm", "xhtml"],
     "JAVASCRIPT": ["js"],
-    "JAVA": ["jar", "js"],
+    "JAVA": ["jar", "java"],
     "CSS": ["css"],
     "PYTHON": ["py"],
     "XML": ["xml"],
