@@ -5,7 +5,7 @@ Directory_dict = {
     "PDF": ["pdf"],
     "DOCUMENTS": ["oxps", "epub", "pages", "docx", "doc", "fdf", "ods",
                   "odt", "pwi", "xsn", "xps", "dotx", "docm", "dox",
-                  "rvg", "rtf", "rtfd", "wpd", "xls", "xlsx", "ppt",
+                  "rvg", "rtf", "rtfd", "wpd", "ppt",
                   "pptx"],
     "SPREADSHEETS": ["xls", "xlsx", "xlsm", "xlsb" "csv", "tsv", "prn", "dif"],
     "ARCHIVES": ["a", "ar", "cpio", "iso", "tar", "gz", "rz", "7z",
